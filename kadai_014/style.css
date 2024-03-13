@@ -19,6 +19,8 @@ h1{  font-family: "Josefin Sans", sans-serif;
   color: pink;
 }
 
-p.bold{
+#basic p{
   font-weight: bold;
 }
+
+ 
