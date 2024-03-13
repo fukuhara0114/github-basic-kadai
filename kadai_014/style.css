@@ -1,14 +1,14 @@
-body{
+html{
   font-family: "Arial", "Meiryo", sans-serif;
   font-size: 20px;
   text-align: center;
 }
 
 h1{  font-family: "Josefin Sans", sans-serif;
-  font-size: 2em;
+  font-size: 2rem;
   text-shadow: 2px 2px 2px rgb(0,0,0, 0.5);
   letter-spacing: 1.2em;
-  
+  border-bottom: 3px solid rgb(115, 115, 114);
 }
 
 .skyblue{
@@ -19,11 +19,6 @@ h1{  font-family: "Josefin Sans", sans-serif;
   color: pink;
 }
 
-hr{
-color: rgb(115, 115, 114);
-border-width: 3px;
-}
-
-p:not(.regular){
+p.bold{
   font-weight: bold;
 }
