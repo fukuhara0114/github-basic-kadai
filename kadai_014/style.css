@@ -1,12 +1,11 @@
 body{
-  font-family: "Areal", "Meiryo", sans-serif;
+  font-family: "Arial", "Meiryo", sans-serif;
   font-size: 20px;
   text-align: center;
 }
 
-h1{
-  font-family: "Josefin Sans", sans-serif;
-  font-size: 2rem;
+h1{  font-family: "Josefin Sans", sans-serif;
+  font-size: 2em;
   text-shadow: 2px 2px 2px rgb(0,0,0, 0.5);
   letter-spacing: 1.2em;
   
